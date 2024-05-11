@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Tripmanage</string>
+    <string name="home_fragment">Home fragment</string>
+    <string name="my_account_fragment">My Account fragment</string>
+    <string name="setting_fragment">Setting fragment</string>
+    <string name="default_web_client_id">487369000610-rs5ln1h1m6b9rhe57plv8d8a1mbuubtr.apps.googleusercontent.com</string>
+
+</resources>
